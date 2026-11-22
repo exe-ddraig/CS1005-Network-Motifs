@@ -13,3 +13,6 @@ desktop.ini
 .idea/
 *.venv
 env/
+
+# Ignore docs folder
+docs/
